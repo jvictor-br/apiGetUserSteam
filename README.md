@@ -4,8 +4,6 @@ Um backend API REST escrito em python, utilizando Flask
 
 ## Etiquetas
 
-Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Steamfront](https://img.shields.io/badge/steamfront-%200.1.0-green)](https://pypi.org/project/steamfront/)
 [![Python](https://img.shields.io/badge/Python-%203.10.5-green)](https://www.python.org/downloads/release/python-3105/)
@@ -103,8 +101,8 @@ Resposta:
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
             "rtime_last_played": 0
-        },
-        ...
+        },{"..."}
+    ]
 }
 ```
 
