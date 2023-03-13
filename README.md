@@ -122,3 +122,5 @@ Resposta:
 Segue alguns projetos relacionados
 
 [SteamMatchWEB](https://github.com/jvictor-br/SteamMatchWEB)
+
+[ApiGetGameSteam](https://github.com/jvictor-br/apiGetGameSteam)
