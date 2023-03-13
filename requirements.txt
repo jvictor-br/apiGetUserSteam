@@ -1,0 +1,4 @@
+steamfront
+flask
+flask-cors
+dotenv
